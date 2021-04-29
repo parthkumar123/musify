@@ -1,0 +1,107 @@
+body {
+  text-align: center;
+  background-color: #10f3e8;
+}
+
+p{
+  background-color: rgba(255, 240, 102, 0.911);
+  opacity:0.7;
+}
+
+.container {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  background-image: url("../Images/homePage.jpg");
+  background-position:top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.firstblock {
+  padding-left: 50px;
+  margin-left: 248px;
+}
+
+#musifylogo {
+  padding: 70px;
+  height: 150px;
+  margin-top: 0px;
+  margin-left: 55px;
+  margin-bottom: 0px;
+  margin-right: 55px;
+  padding-top: 19px;
+  padding-bottom: 28px;
+  padding-right: 32px;
+}
+
+#h1musify {
+  color: rgb(5, 5, 5);
+  /* padding-left: 200px; */
+  font-size: 100px;
+  margin-right: 250px;
+  margin-left: 20px;
+  font-family: "Dancing Script", cursive;
+}
+
+.btn {
+  -webkit-border-radius: 51px;
+  -moz-border-radius: 51px;
+  border-radius: 51px;
+  height: 0;
+  line-height: 0;
+  color: #000000;
+  font-family: Verdana;
+  width: 173px;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 18px;
+  background-color: #3df64f;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  border: solid #337fed 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid rgba(81, 237, 51, 0.91) 0;
+  background: rgba(81, 237, 51, 0.91);
+  background-image: -webkit-linear-gradient(
+    top,
+    rgba(81, 237, 51, 0.91),
+    rgba(81, 237, 51, 0.91)
+  );
+  background-image: -moz-linear-gradient(
+    top,
+    rgba(81, 237, 51, 0.91),
+    rgba(81, 237, 51, 0.91)
+  );
+  background-image: -ms-linear-gradient(
+    top,
+    rgba(81, 237, 51, 0.91),
+    rgba(81, 237, 51, 0.91)
+  );
+  background-image: -o-linear-gradient(
+    top,
+    rgba(81, 237, 51, 0.91),
+    rgba(81, 237, 51, 0.91)
+  );
+  background-image: -webkit-gradient(
+    to bottom,
+    rgba(81, 237, 51, 0.91),
+    rgba(81, 237, 51, 0.91)
+  );
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+#getstarted {
+  text-decoration: none;
+}
