@@ -15,6 +15,7 @@ p{
   margin-bottom: 0px;
   margin-right: 0px;
   background-image: url("../Images/homePage.jpg");
+  background-size: cover;
   background-position:top;
   background-repeat: no-repeat;
   background-size: 100%;
